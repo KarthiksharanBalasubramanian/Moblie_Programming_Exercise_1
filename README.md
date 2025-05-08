@@ -79,11 +79,8 @@ flutter pub get
 
 ### 4. Screenshots
 
+![screenshot](https://github.com/user-attachments/assets/85b7f7ff-28c9-4b5c-847e-6592c06f6771)
 
-
-* Home screen on Chrome
-* After adding items to cart
-* Checkout confirmation popup
 
 ---
 
